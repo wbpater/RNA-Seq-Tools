@@ -1,0 +1,26 @@
+ path name Mutation Dataset batch Selection Library_prep heatmap_lab Targeted Sex
+MDL_1-1 Liver-Organoids-Morsche-MDL1-1-Liver-organoid-Fem-control-16246 HLT_1 None MDL1 None "Not selected" "Ribo-Zero run 1" " " "Not selected" Female
+MDL_1-2 Liver-Organoids-Morsche-MDL1-2-Liver-organoid-Fem-control-16247 HLT_2 None MDL1 None "Not selected" "Ribo-Zero run 1" " " "Not selected" Female
+MDL_1-5 Liver-Organoids-Morsche-MDL1-5-Liver-organoid-Fem-mult-cyst-16249 PRK_1 "PRKCSH LOH" MDL1 PRKCSH PLD "Ribo-Zero run 1" * PRKCSH Female
+MDL_1-6 Liver-Organoids-Morsche-MDL1-6-Liver-organoid-Fem-mult-cyst-16250 UNK_1 Unknown MDL1 Unknown PLD "Ribo-Zero run 1" " " "Not selected" Female
+MDL_1-7 Liver-Organoids-Morsche-MDL1-7-Liver-organoid-Fem-mult-cyst-16251 UNK_2 Unknown MDL1 Unknown PLD "Ribo-Zero run 1" " " "Not selected" Female
+MDL_1-8 Liver-Organoids-Morsche-MDL1-8-Liver-organoid-Fem-mult-cyst-16252 UNK_3 Unknown MDL1 Unknown PLD "Ribo-Zero run 1" " " "Not selected" Female
+MDL_2-6 Liver-Organoids-Morsche-MDL2-6-Liver-organoid-Fem-mult-cyst-16254 PRK_2 PRKCSH MDL1 PRKCSH PLD "Ribo-Zero run 1" * "Not selected" Female
+MDL_2-7 Liver-Organoids-Morsche-MDL2-7-Liver-organoid-Fem-mult-cyst-16255 SEC_1 "SEC63 LOH" MDL1 SEC63 PLD "Ribo-Zero run 1" * "Not selected" Female
+MDL_2-8 Liver-Organoids-Morsche-MDL2-8-Liver-organoid-Fem-mult-cyst-16256 UNK_4 Unknown MDL1 Unknown PLD "Ribo-Zero run 1" * "Not selected" Female
+MDL_3.3 Liver-Organoids-Morsche-MDL3-3-Liver-organoid-Fem-control-16592 HLT_3 None MDL2 None Control "Ribo-Zero run 2" " " Control Female
+MDL_3.4 Liver-Organoids-Morsche-MDL3-4-Liver-organoid-Fem-control-16593 HLT_4 None MDL2 None Control "Ribo-Zero run 2" " " Control Female
+MDL_3.5 Liver-Organoids-Morsche-MDL3-5-Liver-organoid-Fem-control-16594 HLT_5 None MDL2 None Control "Ribo-Zero run 2" " " Control Female
+MDL_3.6 Liver-Organoids-Morsche-MDL3-6-Liver-organoid-Fem-control-16595 HLT_6 None MDL2 None Control "Ribo-Zero run 2" " " Control Female
+MDL_3.7 Liver-Organoids-Morsche-MDL3-7-Liver-organoid-Fem-mult-cyst-16596 UNK_5 Unknown MDL2 Unknown PLD "Ribo-Zero run 2" " " "Not selected" Female
+MDL_3.8 Liver-Organoids-Morsche-MDL3-8-Liver-organoid-Fem-mult-cyst-16597 PRK_3 PRKCSH MDL2 PRKCSH PLD "Ribo-Zero run 2" " " "Not selected" Female
+EDG_n2 NL2P6_merged-260-262_L100 HLT_7-ED None ED None Control "PolyA selection" " " Control Male
+EDG_n3 NL3P7_merged-260-262_L100 HLT_8-ED None ED None Control "PolyA selection" " " Control Male
+EDG_n4 NL4P6_merged-260-262_L100 HLT_9-ED None ED None Control "PolyA selection" " " Control Male
+EDG_n10 NL10P10_merged-260-262_L100 HLT_10-ED None ED None "Not selected" "PolyA selection" " " "Not selected" Male
+EDG_8p6 PCLD8-1P6_merged-260-262_L100 UNK_1-ED Unknown ED Unknown PLD "PolyA selection" "" "Not selected" Female
+EDG_9p6 PCLD9-1-1P6_merged-260-262_L100 PRK_1-ED "PRKCSH LOH" ED PRKCSH PLD "PolyA selection" "*" "Not selected" Female
+EDG_10p4 PCLD10P4_merged-260-262_L100 UNK_2-ED Unknown ED Unknown PLD "PolyA selection" "" "Not selected" Female
+EDG_12p5 PCLD12P5_merged-260-262_L100 UNK_3-ED Unknown ED Unknown PLD "PolyA selection" "" "Not selected" Female
+EDG_15p6 PCLD15P6_merged-260-262_L100 PKD_1-ED PKD1 ED PKD1 PLD "PolyA selection" " " "Not selected" Female
+EDG_16p6 PCLD16-4P6_merged-260-262_L100 PRK_4-ED "PRKCSH LOH" ED PRKCSH PLD "PolyA selection" * PRKCSH Female
